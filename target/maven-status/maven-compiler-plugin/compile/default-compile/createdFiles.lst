@@ -1,0 +1,10 @@
+com\nt\service\TravelPlanMgmtServiceImpl.class
+com\nt\ms\TravelPlanOperationsController.class
+com\nt\Jrtp701MiniProj01CrudOperationsApplication.class
+com\nt\entity\PlanCategory.class
+com\nt\repository\IPlanCategoryRepository.class
+com\nt\repository\ITravelPlanRepository.class
+com\nt\constants\TravelPlanConstants.class
+com\nt\config\AppConfigProperties.class
+com\nt\service\ITravelPlanMgmtService.class
+com\nt\entity\TravelPlan.class

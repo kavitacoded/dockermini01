@@ -1,0 +1,10 @@
+E:\JRTPPracticalNatrajSir\JRTP701-MiniProj01-CRUD\src\main\java\com\nt\config\AppConfigProperties.java
+E:\JRTPPracticalNatrajSir\JRTP701-MiniProj01-CRUD\src\main\java\com\nt\constants\TravelPlanConstants.java
+E:\JRTPPracticalNatrajSir\JRTP701-MiniProj01-CRUD\src\main\java\com\nt\entity\PlanCategory.java
+E:\JRTPPracticalNatrajSir\JRTP701-MiniProj01-CRUD\src\main\java\com\nt\entity\TravelPlan.java
+E:\JRTPPracticalNatrajSir\JRTP701-MiniProj01-CRUD\src\main\java\com\nt\Jrtp701MiniProj01CrudOperationsApplication.java
+E:\JRTPPracticalNatrajSir\JRTP701-MiniProj01-CRUD\src\main\java\com\nt\ms\TravelPlanOperationsController.java
+E:\JRTPPracticalNatrajSir\JRTP701-MiniProj01-CRUD\src\main\java\com\nt\repository\IPlanCategoryRepository.java
+E:\JRTPPracticalNatrajSir\JRTP701-MiniProj01-CRUD\src\main\java\com\nt\repository\ITravelPlanRepository.java
+E:\JRTPPracticalNatrajSir\JRTP701-MiniProj01-CRUD\src\main\java\com\nt\service\ITravelPlanMgmtService.java
+E:\JRTPPracticalNatrajSir\JRTP701-MiniProj01-CRUD\src\main\java\com\nt\service\TravelPlanMgmtServiceImpl.java
